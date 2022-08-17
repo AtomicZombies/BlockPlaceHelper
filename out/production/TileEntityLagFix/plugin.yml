@@ -1,0 +1,7 @@
+main: me.cjcrafter.tileentity.TileEntityLagFix
+name: TileEntityLagFix
+version: 1.0.0
+api-version: '1.13'
+author: CJCrafter
+depend:
+  - MechanicsCore

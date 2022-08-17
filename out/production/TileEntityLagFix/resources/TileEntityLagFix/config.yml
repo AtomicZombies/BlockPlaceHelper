@@ -1,0 +1,6 @@
+Debug_Level: 4
+
+Worlds:
+  world:
+    - hopper
+    - blast_furnace
